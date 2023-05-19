@@ -1,5 +1,6 @@
 const ProjectList = ({ employee}) => {
     employee.projects.map(project => console.log(project))
+    
   return (
     <div className="project-list">
         <h1>PROJECTS</h1>
