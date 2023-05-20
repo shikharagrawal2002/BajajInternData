@@ -17,6 +17,10 @@ ul {
   padding: 20px;
 }
 
+.container > h1 {
+  color: white;
+}
+
 .innerContainer{
   display: flex;
 }
