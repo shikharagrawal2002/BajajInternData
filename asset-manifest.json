@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BajajInternData/static/css/main.d3074f4a.css",
+    "main.js": "/BajajInternData/static/js/main.44b7f130.js",
+    "index.html": "/BajajInternData/index.html",
+    "main.d3074f4a.css.map": "/BajajInternData/static/css/main.d3074f4a.css.map",
+    "main.44b7f130.js.map": "/BajajInternData/static/js/main.44b7f130.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3074f4a.css",
+    "static/js/main.44b7f130.js"
+  ]
+}
